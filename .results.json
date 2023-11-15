@@ -1,0 +1,102 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 6,
+    "passes": 6,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-11-15T18:24:16.370Z",
+    "end": "2023-11-15T18:24:17.893Z",
+    "duration": 1523
+  },
+  "tests": [
+    {
+      "title": "has a function expression called divide",
+      "fullTitle": "index.js has a function expression called divide",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a function expression called divide",
+      "fullTitle": "index.js has a function expression called divide",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a function expression called divide",
+      "fullTitle": "index.js has a function expression called divide",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a function expression called divide",
+      "fullTitle": "index.js has a function expression called divide",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a function expression called divide",
+      "fullTitle": "index.js has a function expression called divide",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a function expression called divide",
+      "fullTitle": "index.js has a function expression called divide",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "has a function expression called divide",
+      "fullTitle": "index.js has a function expression called divide",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a function expression called divide",
+      "fullTitle": "index.js has a function expression called divide",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a function expression called divide",
+      "fullTitle": "index.js has a function expression called divide",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a function expression called divide",
+      "fullTitle": "index.js has a function expression called divide",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a function expression called divide",
+      "fullTitle": "index.js has a function expression called divide",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a function expression called divide",
+      "fullTitle": "index.js has a function expression called divide",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
